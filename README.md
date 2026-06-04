@@ -42,7 +42,7 @@ _Computer Science & AI Student | Flutter & Automaion Developer_
 
 ### 🌐 Let's Connect
 
-[Email](mailto:ahmedel3ssal1@gmail.com) • [LinkedIn](https://linkedin.com/in/ahmed-ashraf-elassal/) • [GitHub](https://github.com/el3ssal)
+<a href="mailto:ahmedel3ssal1@gmail.com" target="_blank">Email</a> • <a href="https://linkedin.com/in/ahmed-ashraf-elassal/" target="_blank">LinkedIn</a> • <a href="https://github.com/el3ssal" target="_blank">GitHub</a>
 
 <br>
 
