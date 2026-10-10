@@ -1,4 +1,4 @@
-# Ahmed El3ssal
+# Ahmed Elassal
 
 *Computer Science & AI Student | Software Development*
 
