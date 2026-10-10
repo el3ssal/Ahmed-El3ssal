@@ -42,7 +42,7 @@ _Computer Science & AI Student | Flutter & Automaion Developer_
 
 ### 🌐 Let's Connect
 
-[All My Links](https://linktr.ee/Ahmed_El3ssal)
+[My Links](https://linktr.ee/Ahmed_El3ssal)
 
 <br>
 
