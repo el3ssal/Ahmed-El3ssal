@@ -19,7 +19,7 @@ Hi, I'm Ahmed, a Computer Science and AI student interested in building practica
 
 ### 🚀 Projects
 
-Explore my pinned repositories for selected projects, practical tools, and problem-solving practice.
+Explore my repositories for selected projects, practical tools, and problem-solving practice.
 
 ### 🌐 Let's Connect
 
