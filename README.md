@@ -1,51 +1,26 @@
 # Ahmed El3ssal
-_Computer Science & AI Student | Flutter & Automaion Developer_
 
-<br>
+*Computer Science & AI Student | Software Development*
 
-> **Hi there, I'm Ahmed.** A developer fueled by a passion for clean code, intelligent automation, and minimalist digital design. I specialize in building smooth, cross-platform software solutions.
+Hi, I'm Ahmed, a Computer Science and AI student interested in building practical software, improving my problem-solving skills, and writing clean, maintainable code.
 
----
+### 💻 Current Focus
 
-###  Profile & Focus
+- **App & Web Development:** Flutter, Dart, and web technologies.
+- **Competitive Programming:** Participating in the ICPC Benha community and strengthening my skills in C++, data structures, algorithms, and OOP.
+- **Python:** Building scripts and small utilities to automate repetitive tasks.
+- **Exploring:** AI fundamentals, API integration, and cybersecurity.
 
-| **Info** | **Details** |
-| :--- | :--- |
-| 🏢 **Current Role** | Freelance Developer & Digital Creator |
-| 📍 **Location** | Cairo, Egypt |
-| 🎓 **Education** | Faculty of Computers & Artificial Intelligence, Benha University |
+### 🛠️ Tech Stack
 
----
+**Programming & Web:** `C++` · `Python` · `Dart` · `JavaScript` · `HTML` · `CSS`
 
-###  Tech Stack & Toolkit
+**Frameworks & Tools:** `Flutter` · `Git` · `GitHub`
 
-* **Languages:** `C++` , `Python` , `Dart` , `JavaScript`
-* **Frameworks & Web:** `Flutter` (Mobile, Desktop, Web) , `HTML5` , `CSS3`
-* **Automation & AI:** `n8n workflows` , `AI Integration & Prompts`
-* **Tools:** `Git` , `GitHub` , `VS Code`
+### 🚀 Projects
 
----
-
-###  Current Journey
-
-*  **Learning:** Advanced Flutter architecture, Backend integration, and complex AI APIs.
-*  **Open for:** Collaborating on open-source mobile apps and smart automation workflows.
-*  **Let's talk about:** Cross-platform development, Flutter optimization, and workflow automation.
-
----
-
-###  Fun Fact
-
-*My workflow is simple: convert coffee and logic into cross-platform magic with Flutter.* ✨
-
----
+Explore my pinned repositories for selected projects, practical tools, and problem-solving practice.
 
 ### 🌐 Let's Connect
 
-[My Links](https://linktr.ee/Ahmed_El3ssal)
-
-<br>
-
-<p align="right">
-  <sub><i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i></sub>
-</p>
+[My Linktree](https://linktr.ee/Ahmed_El3ssal)
